@@ -1,5 +1,8 @@
+## zDoxerDev <img src="/Recursos/red-check.png" width="20">
+
 # 💫 About Me:
-🔭 i'am working in @lumicgames and Aeon Odyssey Mmorpg <br>🐦‍🔥 Work in YouTube channels.<br>🇩🇴 I'm dominican.<br><br>✉️ <br>Contact: zdoxercontact@gmail.com
+🔭 i'am working in @lumicstudios <img src="/Recursos/red-check.png" width="20"> and Aeon Odyssey <img src="/Recursos 
+/green-check.png" width="20"> Mmorpg <br>🐦‍🔥 Work in YouTube channels.<br>🇩🇴 I'm dominican.<br><br>✉️ <br>[Contact](mailto:zdoxercontact@gmail.com)
 
 
 ## 🌐 Socials:
