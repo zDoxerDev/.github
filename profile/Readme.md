@@ -1,6 +1,6 @@
 [![Banner de LumicStudios](/Recursos/z-banner.gif)](https://www.zdoxermc.com)
 
-# zDoxerDev <img src="/Recursos/red-check.png" width="10">
+# zDoxerDev <img src="/Recursos/red-check.png" width="20">
 
 
 # 💫 About Me:
